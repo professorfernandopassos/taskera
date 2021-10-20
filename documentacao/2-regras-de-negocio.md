@@ -2,7 +2,7 @@
 
 1. A interface do sistema funciona via web.
 2. A interface do sistema funciona via web/mobile.
-3. O sistema possui um mecanismo de registro de usuário que contém um email válido e senha.
+3. O sistema possui um mecanismo de registro de usuário que contém um email válido, nome e senha.
 4. Esse registro de usuário será feito em uma tela específica.
 5. O sistema possui um mecanismo de checagem de autenticação do usuário baseado no seu email e sua senha.
 6. O sistema só permitirá o acesso após essa checagem de autenticidade.
