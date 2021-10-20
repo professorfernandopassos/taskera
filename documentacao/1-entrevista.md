@@ -7,4 +7,4 @@
    1. Lista de tarefas
    2. Entrada para digitar uma nova tarefa.
    3. Interações diversas como alterar, marcar como executada e excluir
-5. O usuário poderá acessar um interação que lhe permite sair so sistema.
+5. O usuário poderá acessar uma interação que lhe permite sair do sistema.
