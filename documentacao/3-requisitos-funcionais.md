@@ -1,6 +1,6 @@
 # Requisitos Funcionais
 
-1. Tela de registro de usuário contendo entrada para nome, email e senha com uma interação para envio dos dados fornecidos.
+1. Tela de registro de usuário contendo entrada para nome, email e senha com uma interação para envio dos dados fornecidos além da exibição dos termos de uso do software e a interação aceitação desses termos.
 2. Após o registro do novo usuário, haverá um redirecionamento para a tela de autenticação do usuário.
 3. Tela de autenticação do usuário contendo entrada para email e senha com uma interação para envio dos dados fornecidos. 
 4. Após a autenticação, o usuário será direcionado para a tela da lista de tarefas onde haverá, além dessa lista: 
