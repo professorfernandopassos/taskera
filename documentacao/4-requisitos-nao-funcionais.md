@@ -3,7 +3,7 @@
 1. Produto
    1. Usabilidade
    2. Eficiência
-      1. Performançe
+      1. Performance
       2. Espaço
    3. Confiabilidade
    4. Portabilidade
