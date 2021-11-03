@@ -17,12 +17,25 @@ class TarefaLogica():
         ]
         return lista
 
+class Usuario:
+    pass
+
+class UsuarioDados:
+    def criar(self, Usuario):
+        pass
+
 class UsuarioLogica():
     def __init__(self):
         pass
 
     def registrarUsuario(self, nome, email, senha):
-        return ""
+        u = Usuario()
+        u.senha = senha
+        u.nome = nome
+        u.email = email
+        d = UsuarioDados()
+        uc = d.criar(u)
+        return uc
 
 
     def autenticarUsuario(self, email, senha):
