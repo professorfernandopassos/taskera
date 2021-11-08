@@ -1,0 +1,6 @@
+[submodule "taskera-web"]
+	path = taskera-web
+	url = git@github.com:professorfernandopassos/taskera-web.git
+[submodule "taskera-api"]
+	path = taskera-api
+	url = git@github.com:professorfernandopassos/taskera-api.git
