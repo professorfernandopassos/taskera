@@ -1,3 +1,2 @@
-taskera-api/
-taskera-web/
-
+taskera-api/*
+taskera-web/*
